@@ -40,6 +40,14 @@
 	</head>
 	<body>
 <!-- - - - - - - 8<- - - - - - cut here - - - - - 8<- - - - - - - -->
+		<script>
+  var password = prompt("Entrez le mot de passe pour accéder à cette page :");
+
+  if (password !== "1234") {
+    document.body.innerHTML = "<h1 style='text-align:center;color:red;'>⛔ Accès refusé</h1>";
+    throw new Error("Mot de passe incorrect"); // arrête le chargement
+  }
+</script>
 		<script type="text/javascript" src="pano2vr_player.js?ts=56046184">
 		</script>
 		<script type="text/javascript" src="skin.js?ts=56046184">
