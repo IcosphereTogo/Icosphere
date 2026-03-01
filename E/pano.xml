@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" start="node4" apprev="20986" appversion="7.1.8">
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="4000" height="4000">
+      <level predecode="0" width="4000" height="4000" preload="0"/>
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata customnodeid="" latitude="" nodeid="node4" tags="Pano2VR7" title="Salle de Réunion 02" info="" heading="0" description="" comment="" datetime="" author="" source="" copyright="" longitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label border="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1" width="180" height="20" borderradius="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" pan="-27.02" description="" id="Point01" tilt="-14.45" target="" title="Salle de Réunion 02" url="{node3}"/>
+      <hotspot skinid="ht_node" pan="-34.9" description="" id="Point02" tilt="0.63" target="" title="Salle de Réunion 03" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" zoomspeed="2" zoomfov="40" enabled="1" delay="none" type="mesh" zoomin="6" zoomout="0" blendtime="1" zoomafteroutfov="40" zoomoutpause="1" blendcolor="0x000000"/>
+    <autorotate horizonfromdefview="0" enabled="1" delay="0.00" noderandom="1" nodedelay="0.00" useanimation="0" speed="0.050" startloaded="0" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" lockedkeyboard="0" invertcontrol="1" zoomcentercursor="1" sensitivity="8" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" hideabout="0" speedwheel="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="4000" height="4000">
+      <level predecode="0" width="4000" height="4000" preload="0"/>
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata customnodeid="" latitude="" nodeid="node3" tags="Pano2VR7" title="Salle de Réunion 02" info="" heading="0" description="" comment="" datetime="" author="" source="" copyright="" longitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label border="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1" width="180" height="20" borderradius="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" pan="-302.38" description="" id="Point01" tilt="-0.5" target="" title="Salle de Réunion 02" url="{node4}"/>
+      <hotspot skinid="ht_node" pan="-121.22" description="" id="Point02" tilt="-2.98" target="" title="Salle de Réunion 03" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" zoomspeed="2" zoomfov="40" enabled="1" delay="none" type="mesh" zoomin="6" zoomout="0" blendtime="1" zoomafteroutfov="40" zoomoutpause="1" blendcolor="0x000000"/>
+    <autorotate horizonfromdefview="0" enabled="1" delay="0.00" noderandom="1" nodedelay="0.00" useanimation="0" speed="0.050" startloaded="0" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" lockedkeyboard="0" invertcontrol="1" zoomcentercursor="1" sensitivity="8" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" hideabout="0" speedwheel="1" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="4000" height="4000">
+      <level predecode="0" width="4000" height="4000" preload="0"/>
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="330" fov="140"/>
+    </view>
+    <userdata customnodeid="" latitude="" nodeid="node5" tags="Pano2VR7" title="Salle de Réunion 03" info="" heading="0" description="" comment="" datetime="" author="" source="" copyright="" longitude=""/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label border="1" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" bordercolor="0x000000" wordwrap="1" width="180" height="20" borderradius="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" pan="-28.52" description="" id="Point01" tilt="0.38" target="" title="Salle de Réunion 02" url="{node3}"/>
+      <hotspot skinid="ht_node" pan="-359.86" description="" id="Point02" tilt="1.93" target="" title="Salle de Réunion 02" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" softedge="0" zoomspeed="2" zoomfov="40" enabled="1" delay="none" type="mesh" zoomin="6" zoomout="0" blendtime="1" zoomafteroutfov="40" zoomoutpause="1" blendcolor="0x000000"/>
+    <autorotate horizonfromdefview="0" enabled="1" delay="0.00" noderandom="1" nodedelay="0.00" useanimation="0" speed="0.050" startloaded="0" nodefilter="" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control invertwheel="0" lockedkeyboard="0" invertcontrol="1" zoomcentercursor="1" sensitivity="8" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" lockedwheel="0" contextprojections="0" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" hideabout="0" speedwheel="1" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="" comment="" tags="" author="" title="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
