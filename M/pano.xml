@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" appversion="7.1.8" hassounds="0" apprev="20986">
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbiashidpi="1.000" width="1500" levelbias="0.400" leveltilesize="510" levelingroll="0" levelingpitch="0" height="1500">
+      <level width="1500" predecode="0" preload="0" height="1500"/>
+      <level width="750" predecode="0" preload="0" height="750"/>
+      <level width="375" predecode="1" preload="1" height="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start projection="4" tilt="0" fov="100" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max fovstereographic="330" tilt="90" fov="140" pan="360" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" comment="" nodeid="node2" description="" source="" title="" latitude="" datetime="" longitude="" info="" heading="0" author="" copyright="" tags="Pano2VR7"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderalpha="1" textalpha="1" background="1" width="180" border="1" textcolor="0x000000" bordercolor="0x000000" borderradius="1" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" zoomin="0" type="crossdissolve" delay="none" zoomout="0" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomspeed="2" softedge="0" zoomfov="40"/>
+    <autorotate speed="0.100" returntohorizon="0.000" horizonfromdefview="0" nodefilter="" startloaded="0" useanimation="0" nodedelay="0.00" delay="5.00" noderandom="1" enabled="1"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control contextvr="1" contextprojections="0" rubberband="0" speedwheel="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" zoomcentercursor="1" simulatemass="1" lockedwheel="0" invertcontrol="1" hideabout="0" invertwheel="0" contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" author="" description="" copyright="" tags="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
