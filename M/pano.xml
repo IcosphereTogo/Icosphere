@@ -397,7 +397,6 @@
       <hotspot description="" target="" title="Cuisine " url="{node18}" skinid="ht_node" pan="-159.64" tilt="25.57" id="Point04"/>
       <hotspot description="" target="" title="Reception 01" url="{node5}" skinid="ht_node" pan="-338.2" tilt="16.98" id="Point05"/>
       <hotspot description="" target="" title="Drone 01" url="{node4}" skinid="ht_node" pan="-24.11" tilt="30.84" id="Point06"/>
-      <hotspot description="" target="_blank" title="" url="" skinid="ht_url" pan="-3.44" tilt="0.16" id="Point07"/>
     </hotspots>
     <media/>
     <transition enabled="1" delay="none" zoomoutpause="1" softedge="0" zoomin="6" blendcolor="0x000000" zoomafterinfov="140" zoomout="0" blendtime="1" zoomafteroutfov="40" zoomspeed="2" zoomfov="40" type="mesh"/>

@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.8/20986
 // Filename: Icosphere Map 02 .ggsk
-// Generated 2026-04-03T08:55:11
+// Generated 2026-04-03T09:27:02
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -18699,10 +18699,10 @@ navigator.share({ url: shareUrl });
 					((player.getVariableValue('resp_phone') == false))
 				)
 			) {
-				let pdfInterval_27 = setInterval(() => {
+				let pdfInterval_29 = setInterval(() => {
 					if (skin._pdf_hs_popup_pdf__pdf.contentWindow.PDFViewerApplication && skin._pdf_hs_popup_pdf__pdf.contentWindow.PDFViewerApplication.initialized && skin._pdf_hs_popup_pdf__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._pdf_hs_popup_pdf__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 						skin._pdf_hs_popup_pdf.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-						clearInterval(pdfInterval_27);
+						clearInterval(pdfInterval_29);
 					}
 				}, 50);
 			}
@@ -18827,10 +18827,10 @@ navigator.share({ url: shareUrl });
 					((player.getVariableValue('resp_phone') == true))
 				)
 			) {
-				let pdfInterval_28 = setInterval(() => {
+				let pdfInterval_30 = setInterval(() => {
 					if (skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.initialized && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.downloadComplete && skin._pdf_popup_phone__pdf.contentWindow.PDFViewerApplication.pdfViewer._pageViewsReady) {
 						skin._pdf_popup_phone.ggSetCurrentPage(Number(player._(me.hotspot.target)));
-						clearInterval(pdfInterval_28);
+						clearInterval(pdfInterval_30);
 					}
 				}, 50);
 			}
