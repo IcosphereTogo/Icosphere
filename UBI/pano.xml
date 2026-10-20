@@ -29,7 +29,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:25:18" comment="" copyright="" customnodeid="" datetime="" description="" heading="-92.4" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node13" source="" tags="Pano2VR8" title="R+1 Couloir 01">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.800629" x_floorplan_percent="46.64" y="-0.744324" y_floorplan_percent="67.3292"/>
     </userdata>
     <view fovmode="2" pannorth="-92.4">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -61,7 +61,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:28:05" comment="" copyright="" customnodeid="" datetime="" description="" heading="256.236" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node12" source="" tags="Pano2VR8" title="R+1  Couloir 02">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="1.23871" x_floorplan_percent="72.16" y="-0.75531" y_floorplan_percent="68.323"/>
     </userdata>
     <view fovmode="2" pannorth="256.236">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -92,7 +92,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-25T08:49:34" comment="" copyright="" customnodeid="" datetime="" description="" heading="-184.983" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node23" source="" tags="Rendus02" title="R+1  Salle d'attente VIP">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="1.47217" x_floorplan_percent="85.76" y="-0.738831" y_floorplan_percent="66.8323"/>
     </userdata>
     <view fovmode="2" pannorth="-184.983">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -118,7 +118,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-25T08:45:47" comment="" copyright="" customnodeid="" datetime="" description="" heading="175.407" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node24" source="" tags="Rendus02" title="R+1  Escalier 01">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="1.4035" x_floorplan_percent="81.76" y="-0.807495" y_floorplan_percent="73.0435"/>
     </userdata>
     <view fovmode="2" pannorth="175.407">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -148,7 +148,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-25T08:43:37" comment="" copyright="" customnodeid="" datetime="" description="" heading="57.9" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node25" source="" tags="Rendus02" title="R+1  Escalier 02">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="1.41174" x_floorplan_percent="82.24" y="-1.01624" y_floorplan_percent="91.9255"/>
     </userdata>
     <view fovmode="2" pannorth="57.9">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -175,7 +175,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-25T08:48:17" comment="" copyright="" customnodeid="" datetime="" description="" heading="-185.249" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node26" source="" tags="Rendus02" title="R+1  Escalier 03">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="1.51886" x_floorplan_percent="88.48" y="-0.878906" y_floorplan_percent="79.5031"/>
     </userdata>
     <view fovmode="2" pannorth="-185.249">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -200,7 +200,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:30:52" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node11" source="" tags="Pano2VR8" title="R+1  Couloir 03">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.557556" x_floorplan_percent="32.48" y="-0.664673" y_floorplan_percent="60.1242"/>
     </userdata>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -229,7 +229,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-17T12:25:44" comment="" copyright="" customnodeid="" datetime="" description="" heading="-86.032" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node17" source="" tags="Rendus02" title="R+1  Responsable Achat">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.484085" x_floorplan_percent="28.2" y="-0.628281" y_floorplan_percent="56.8323"/>
     </userdata>
     <view fovmode="2" pannorth="-86.032">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -253,7 +253,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-17T11:53:02" comment="" copyright="" customnodeid="" datetime="" description="" heading="-90.942" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node18" source="" tags="Rendus02" title="R+1  Assistant Responsable Achat">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.490265" x_floorplan_percent="28.56" y="-0.470352" y_floorplan_percent="42.5466"/>
     </userdata>
     <view fovmode="2" pannorth="-90.942">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -278,7 +278,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-17T12:40:46" comment="" copyright="" customnodeid="" datetime="" description="" heading="-75.227" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node19" source="" tags="Rendus02" title="R+1  Tresorier">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.488892" x_floorplan_percent="28.48" y="-0.357742" y_floorplan_percent="32.3602"/>
     </userdata>
     <view fovmode="2" pannorth="-75.227">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -303,7 +303,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-17T07:48:05" comment="" copyright="" customnodeid="" datetime="" description="" heading="-83.589" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node20" source="" tags="Rendus02" title="R+1  Bureau de Passage 01">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.508118" x_floorplan_percent="29.6" y="-0.241013" y_floorplan_percent="21.8012"/>
     </userdata>
     <view fovmode="2" pannorth="-83.589">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -328,7 +328,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-17T07:52:35" comment="" copyright="" customnodeid="" datetime="" description="" heading="-89.512" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node21" source="" tags="Rendus02" title="R+1  Bureau de Passage 02">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.517731" x_floorplan_percent="30.16" y="-0.11673" y_floorplan_percent="10.559"/>
     </userdata>
     <view fovmode="2" pannorth="-89.512">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -352,7 +352,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:22:30" comment="" copyright="" customnodeid="" datetime="" description="" heading="-106.584" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="Pano2VR8" title="R+1  Couloir 04">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.326843" x_floorplan_percent="19.04" y="-0.719604" y_floorplan_percent="65.0932"/>
     </userdata>
     <view fovmode="2" pannorth="-106.584">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -378,7 +378,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:52:04" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node3" source="" tags="Pano2VR8" title="R+1  Salle de Conseil 01">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.656433" x_floorplan_percent="38.24" y="-0.628967" y_floorplan_percent="56.8944"/>
     </userdata>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -406,7 +406,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:53:52" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="Pano2VR8" title="R+1  Salle de Conseil 02">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.77179" x_floorplan_percent="44.96" y="-0.645447" y_floorplan_percent="58.3851"/>
     </userdata>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -432,7 +432,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:50:15" comment="" copyright="" customnodeid="" datetime="" description="" heading="190.255" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="Pano2VR8" title="R+1  Salle de Conseil 03">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.900879" x_floorplan_percent="52.48" y="-0.0933838" y_floorplan_percent="8.4472"/>
     </userdata>
     <view fovmode="2" pannorth="190.255">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -459,7 +459,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:48:16" comment="" copyright="" customnodeid="" datetime="" description="" heading="-181.379" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="Pano2VR8" title="R+1  Salle de Conseil 04">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.777283" x_floorplan_percent="45.28" y="-0.0878906" y_floorplan_percent="7.95031"/>
     </userdata>
     <view fovmode="2" pannorth="-181.379">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -486,7 +486,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:45:17" comment="" copyright="" customnodeid="" datetime="" description="" heading="-177.274" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="Pano2VR8" title="R+1  Pool Comptable 01">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.639954" x_floorplan_percent="37.28" y="-0.909119" y_floorplan_percent="82.236"/>
     </userdata>
     <view fovmode="2" pannorth="-177.274">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -512,7 +512,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:33:39" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node10" source="" tags="Pano2VR8" title="R+1  Pool Comptable 02">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.549316" x_floorplan_percent="32" y="-0.994263" y_floorplan_percent="89.9379"/>
     </userdata>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -537,7 +537,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:39:14" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node8" source="" tags="Pano2VR8" title="R+1  Bureau DG 01">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="1.14807" x_floorplan_percent="66.88" y="-0.648193" y_floorplan_percent="58.6335"/>
     </userdata>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -563,7 +563,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:42:05" comment="" copyright="" customnodeid="" datetime="" description="" heading="8.659" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node7" source="" tags="Pano2VR8" title="R+1  Bureau DG 02">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="1.24146" x_floorplan_percent="72.32" y="-0.593262" y_floorplan_percent="53.6646"/>
     </userdata>
     <view fovmode="2" pannorth="8.659">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -588,7 +588,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:36:27" comment="" copyright="" customnodeid="" datetime="" description="" heading="-183.394" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="Pano2VR8" title="R+1  Bureau DG 03">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="1.23871" x_floorplan_percent="72.16" y="-0.464172" y_floorplan_percent="41.9876"/>
     </userdata>
     <view fovmode="2" pannorth="-183.394">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -616,7 +616,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:19:43" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node15" source="" tags="Pano2VR8" title="R+1  DAF 01">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="1.02997" x_floorplan_percent="60" y="-1.0025" y_floorplan_percent="90.6832"/>
     </userdata>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -640,7 +640,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-17T12:28:14" comment="" copyright="" customnodeid="" datetime="" description="" heading="-186.101" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node22" source="" tags="Rendus02" title="R+1  Responsable Comptable">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.861053" x_floorplan_percent="50.16" y="-0.899506" y_floorplan_percent="81.3665"/>
     </userdata>
     <view fovmode="2" pannorth="-186.101">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -662,7 +662,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-30T10:13:20" comment="" copyright="" customnodeid="" datetime="" description="" heading="-166.6" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node27" source="" tags="Rendus03" title="R+1  Espace de Collation">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="0.979156" x_floorplan_percent="57.04" y="-0.477905" y_floorplan_percent="43.2298"/>
     </userdata>
     <view fovmode="2" pannorth="-166.6">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -685,7 +685,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-07-30T11:44:16" comment="" copyright="" customnodeid="" datetime="" description="" heading="-10.82" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node28" source="" tags="Rendus03" title="R+1  Assistante de direction">
-      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+      <mapcoords mapid="FloorPlan01" x="1.46942" x_floorplan_percent="85.6" y="-0.549316" y_floorplan_percent="49.6894"/>
     </userdata>
     <view fovmode="2" pannorth="-10.82">
       <start fov="100" pan="0" projection="4" tilt="0"/>
@@ -814,7 +814,8 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{0b3da764-7c41-4190-9acf-bad60f02afef}"/>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{24b4ef08-e547-4400-b43d-d6b88dc70a7a}"/>
+    <autorotate delay="3.00" enabled="1" horizonfromdefview="0" nodedelay="0.00" nodefilter="" noderandom="1" returntohorizon="0.000" speed="0.020" startloaded="0" useanimation="0"/>
     <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="6" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
@@ -825,6 +826,6 @@
       <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
     </hotspots>
   </masternode>
-  <map bgcolor="rgba(255, 255, 255, 1)" crispedges="0" floorplannorth="0" height="0" id="FloorPlan01" index="0" tileformat="png" title="" transparent="0" type="file" width="0" zoomlevels="1"/>
+  <map bgcolor="rgba(255, 255, 255, 1)" crispedges="0" floorplannorth="0" height="1610" id="FloorPlan01" index="0" tileformat="png" title="" transparent="0" type="file" width="2500" zoomlevels="1"/>
   <map bgcolor="rgba(255, 255, 255, 1)" crispedges="0" floorplannorth="0" height="3107" id="FloorPlan02" index="1" tileformat="jpg" title="" transparent="0" type="file" width="3110" zoomlevels="1"/>
 </tour>
