@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="22555" appversion="8.0.2" hassounds="0" start="node16">
+  <panorama id="node16">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T06:34:45" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node16" source="" tags="TABLEAUXUP" title="PAGE D'ACCEUIL "/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <polyhotspot description="" id="Poly01" target="" title="" url="{node3}">
+        <polystring>4.11/16.11|13.19/5.58|13.37/-5.86|4.66/-10.96|-7.83/-8.84|-14.38/-3.07|-13.56/7.22|-6.24/15.72</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:25:18" comment="" copyright="" customnodeid="" datetime="" description="" heading="-92.4" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node13" source="" tags="Pano2VR8" title="R+1 Couloir 01">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-92.4">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point02" pan="169.52" skinid="ht_node" target="" tilt="-2.49" title="R+1  DAF 01" url="{node15}"/>
+      <hotspot description="" id="Point03" pan="-179.06" skinid="ht_node" target="" tilt="-10.96" title="R+1  Couloir 02" url="{node12}"/>
+      <hotspot description="" id="Point05" pan="-23.08" skinid="ht_node" target="" tilt="-3.92" title="R+1  Couloir 03" url="{node11}"/>
+      <hotspot description="" id="Point06" pan="-1.16" skinid="ht_node" target="" tilt="-10.99" title="R+1  Couloir 04" url="{node14}"/>
+      <hotspot description="" id="Point01" pan="-39.44" skinid="ht_node" target="" tilt="-4.08" title="R+1  Salle de Conseil 01" url="{node3}"/>
+      <hotspot description="" id="Point07" pan="97.27" skinid="ht_node" target="" tilt="-9.73" title="R+1  Pool Comptable 01" url="{node6}"/>
+      <hotspot description="" id="Point04" pan="-171.7" skinid="ht_node" target="" tilt="-0.5" title="R+1  Bureau DG 01" url="{node8}"/>
+      <hotspot description="" id="Point08" pan="-179.38" skinid="ht_node" target="" tilt="38.23" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point09" pan="144.51" skinid="ht_node" target="" tilt="-7.54" title="R+1  Responsable Comptable" url="{node22}"/>
+      <hotspot description="" id="Point10" pan="-177.35" skinid="ht_node" target="" tilt="-0.11" title="R+1  Salle d'attente VIP" url="{node23}"/>
+      <hotspot description="" id="Point11" pan="175.7" skinid="ht_node" target="" tilt="2.74" title="RDC Bureau RH " url="{node29}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:28:05" comment="" copyright="" customnodeid="" datetime="" description="" heading="256.236" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node12" source="" tags="Pano2VR8" title="R+1  Couloir 02">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="256.236">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-0.0299999" skinid="ht_node" target="" tilt="-11.83" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point04" pan="8.92" skinid="ht_node" target="" tilt="-0.48" title="R+1  DAF 01" url="{node15}"/>
+      <hotspot description="" id="Point02" pan="-4.82" skinid="ht_node" target="" tilt="0.13" title="R+1  Salle de Conseil 01" url="{node3}"/>
+      <hotspot description="" id="Point03" pan="-14.28" skinid="ht_node" target="" tilt="-1.98" title="R+1  Bureau DG 01" url="{node8}"/>
+      <hotspot description="" id="Point05" pan="6.33" skinid="ht_node" target="" tilt="2.73" title="R+1  Responsable Comptable" url="{node22}"/>
+      <hotspot description="" id="Point06" pan="-151.45" skinid="ht_node" target="" tilt="1.76" title="R+1  Salle d'attente VIP" url="{node23}"/>
+      <hotspot description="" id="Point07" pan="84.46" skinid="ht_node" target="" tilt="-5.49" title="R+1  Escalier 01" url="{node24}"/>
+      <hotspot description="" id="Point08" pan="101.25" skinid="ht_node" target="" tilt="0.92" title="R+1  Escalier 02" url="{node25}"/>
+      <hotspot description="" id="Point09" pan="-109.67" skinid="ht_node" target="" tilt="-2.02" title="R+1  Assistante de direction" url="{node28}"/>
+      <hotspot description="" id="Point10" pan="101.86" skinid="ht_node" target="" tilt="-20.04" title="RDC Bureau RH " url="{node29}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-25T08:49:34" comment="" copyright="" customnodeid="" datetime="" description="" heading="-184.983" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node23" source="" tags="Rendus02" title="R+1  Salle d'attente VIP">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-184.983">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-114.41" skinid="ht_node" target="" tilt="-14.7" title="R+1  Couloir 02" url="{node12}"/>
+      <hotspot description="" id="Point02" pan="-113.79" skinid="ht_node" target="" tilt="3.21" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point03" pan="-116.02" skinid="ht_node" target="" tilt="26.38" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point04" pan="-162.33" skinid="ht_node" target="" tilt="25.63" title="R+1  Bureau DG 02" url="{node7}"/>
+      <hotspot description="" id="Point05" pan="7.12" skinid="ht_node" target="" tilt="7.37" title="R+1  Escalier 02" url="{node25}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-25T08:45:47" comment="" copyright="" customnodeid="" datetime="" description="" heading="175.407" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node24" source="" tags="Rendus02" title="R+1  Escalier 01">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="175.407">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-0.84" skinid="ht_node" target="" tilt="4.83" title="R+1  Escalier 02" url="{node25}"/>
+      <hotspot description="" id="Point02" pan="35.51" skinid="ht_node" target="" tilt="-13.5" title="R+1  Escalier 03" url="{node26}"/>
+      <hotspot description="" id="Point04" pan="176.92" skinid="ht_node" target="" tilt="6.06" title="R+1  Couloir 02" url="{node12}"/>
+      <hotspot description="" id="Point03" pan="-141.17" skinid="ht_node" target="" tilt="2.52" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point05" pan="-99.81" skinid="ht_node" target="" tilt="1.69" title="R+1  Salle de Conseil 01" url="{node3}"/>
+      <hotspot description="" id="Point06" pan="-117.64" skinid="ht_node" target="" tilt="3.55" title="R+1  Bureau DG 01" url="{node8}"/>
+      <hotspot description="" id="Point07" pan="171.16" skinid="ht_node" target="" tilt="7.51" title="R+1  Salle d'attente VIP" url="{node23}"/>
+      <hotspot description="" id="Point08" pan="-172.42" skinid="ht_node" target="" tilt="4.85" title="R+1  Espace de Collation" url="{node27}"/>
+      <hotspot description="" id="Point09" pan="3.81" skinid="ht_node" target="" tilt="-21.99" title="RDC Bureau RH " url="{node29}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-25T08:43:37" comment="" copyright="" customnodeid="" datetime="" description="" heading="57.9" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node25" source="" tags="Rendus02" title="R+1  Escalier 02">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="57.9">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="65.34" skinid="ht_node" target="" tilt="5.82" title="R+1  Escalier 01" url="{node24}"/>
+      <hotspot description="" id="Point02" pan="19.41" skinid="ht_node" target="" tilt="-35.23" title="R+1  Escalier 03" url="{node26}"/>
+      <hotspot description="" id="Point03" pan="-6.6" skinid="ht_node" target="" tilt="44.69" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point04" pan="50.04" skinid="ht_node" target="" tilt="3.24" title="R+1  Salle d'attente VIP" url="{node23}"/>
+      <hotspot description="" id="Point05" pan="55.68" skinid="ht_node" target="" tilt="1.7" title="R+1  Espace de Collation" url="{node27}"/>
+      <hotspot description="" id="Point06" pan="-7.45" skinid="ht_node" target="" tilt="-44.93" title="RDC Bureau RH " url="{node29}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-25T08:48:17" comment="" copyright="" customnodeid="" datetime="" description="" heading="-185.249" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node26" source="" tags="Rendus02" title="R+1  Escalier 03">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-185.249">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="7.67" skinid="ht_node" target="" tilt="6.27" title="R+1  Escalier 02" url="{node25}"/>
+      <hotspot description="" id="Point02" pan="-35.72" skinid="ht_node" target="" tilt="28.12" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point03" pan="-73.44" skinid="ht_node" target="" tilt="-2.65" title="RDC Bureau RH " url="{node29}"/>
+      <hotspot description="" id="Point04" pan="-127.43" skinid="ht_node" target="" tilt="-5.64" title="RDC Responsable Informatique" url="{node30}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:30:52" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node11" source="" tags="Pano2VR8" title="R+1  Couloir 03">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-124.52" skinid="ht_node" target="" tilt="-24.32" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point02" pan="120.57" skinid="ht_node" target="" tilt="-10.28" title="R+1  Couloir 04" url="{node14}"/>
+      <hotspot description="" id="Point03" pan="-127.32" skinid="ht_node" target="" tilt="-2.06" title="R+1  Pool Comptable 02" url="{node10}"/>
+      <hotspot description="" id="Point04" pan="26.11" skinid="ht_node" target="" tilt="-8.07" title="R+1  Responsable Achat" url="{node17}"/>
+      <hotspot description="" id="Point05" pan="11.43" skinid="ht_node" target="" tilt="-4.31" title="R+1  Assistant Responsable Achat" url="{node18}"/>
+      <hotspot description="" id="Point06" pan="7.31" skinid="ht_node" target="" tilt="-0.85" title="R+1  Tresorier" url="{node19}"/>
+      <hotspot description="" id="Point07" pan="4.92" skinid="ht_node" target="" tilt="3.36" title="R+1  Bureau de Passage 01" url="{node20}"/>
+      <hotspot description="" id="Point08" pan="2.67" skinid="ht_node" target="" tilt="-2.31" title="R+1  Bureau de Passage 02" url="{node21}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-17T12:25:44" comment="" copyright="" customnodeid="" datetime="" description="" heading="-86.032" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node17" source="" tags="Rendus02" title="R+1  Responsable Achat">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-86.032">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-144.43" skinid="ht_node" target="" tilt="-2.76" title="R+1  Couloir 03" url="{node11}"/>
+      <hotspot description="" id="Point02" pan="-66.68" skinid="ht_node" target="" tilt="0.98" title="R+1  Assistant Responsable Achat" url="{node18}"/>
+      <hotspot description="" id="Point03" pan="9.07" skinid="ht_node" target="" tilt="14.55" title="PAGE D'ACCEUIL " url="{node16}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-17T11:53:02" comment="" copyright="" customnodeid="" datetime="" description="" heading="-90.942" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node18" source="" tags="Rendus02" title="R+1  Assistant Responsable Achat">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-90.942">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="74.24" skinid="ht_node" target="" tilt="2.64" title="R+1  Responsable Achat" url="{node17}"/>
+      <hotspot description="" id="Point02" pan="-57.15" skinid="ht_node" target="" tilt="6.97" title="R+1  Tresorier" url="{node19}"/>
+      <hotspot description="" id="Point03" pan="7.23" skinid="ht_node" target="" tilt="9.43" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point04" pan="-151" skinid="ht_node" target="" tilt="-7.34" title="R+1  Couloir 03" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-17T12:40:46" comment="" copyright="" customnodeid="" datetime="" description="" heading="-75.227" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node19" source="" tags="Rendus02" title="R+1  Tresorier">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-75.227">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="73.65" skinid="ht_node" target="" tilt="-5.28" title="R+1  Assistant Responsable Achat" url="{node18}"/>
+      <hotspot description="" id="Point02" pan="4.63" skinid="ht_node" target="" tilt="6.14" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point03" pan="-62.83" skinid="ht_node" target="" tilt="-0.79" title="R+1  Bureau de Passage 01" url="{node20}"/>
+      <hotspot description="" id="Point04" pan="-140.23" skinid="ht_node" target="" tilt="-13.06" title="R+1  Couloir 03" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-17T07:48:05" comment="" copyright="" customnodeid="" datetime="" description="" heading="-83.589" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node20" source="" tags="Rendus02" title="R+1  Bureau de Passage 01">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-83.589">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-58.81" skinid="ht_node" target="" tilt="-2.71" title="R+1  Bureau de Passage 02" url="{node21}"/>
+      <hotspot description="" id="Point02" pan="3.56" skinid="ht_node" target="" tilt="5.07" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point03" pan="68.39" skinid="ht_node" target="" tilt="-1.66" title="R+1  Tresorier" url="{node19}"/>
+      <hotspot description="" id="Point04" pan="-140.89" skinid="ht_node" target="" tilt="-11.22" title="R+1  Couloir 03" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-17T07:52:35" comment="" copyright="" customnodeid="" datetime="" description="" heading="-89.512" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node21" source="" tags="Rendus02" title="R+1  Bureau de Passage 02">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-89.512">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="66.88" skinid="ht_node" target="" tilt="-4.99" title="R+1  Bureau de Passage 01" url="{node20}"/>
+      <hotspot description="" id="Point02" pan="127.17" skinid="ht_node" target="" tilt="-10.61" title="R+1  Couloir 03" url="{node11}"/>
+      <hotspot description="" id="Point03" pan="13.63" skinid="ht_node" target="" tilt="2.05" title="PAGE D'ACCEUIL " url="{node16}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:22:30" comment="" copyright="" customnodeid="" datetime="" description="" heading="-106.584" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="Pano2VR8" title="R+1  Couloir 04">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-106.584">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point02" pan="-179.27" skinid="ht_node" target="" tilt="-8.62" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point03" pan="-179.59" skinid="ht_node" target="" tilt="0.3" title="R+1  Couloir 02" url="{node12}"/>
+      <hotspot description="" id="Point04" pan="-169.51" skinid="ht_node" target="" tilt="-2.74" title="R+1  Salle de Conseil 01" url="{node3}"/>
+      <hotspot description="" id="Point05" pan="173.54" skinid="ht_node" target="" tilt="-1.66" title="R+1  Pool Comptable 01" url="{node6}"/>
+      <hotspot description="" id="Point01" pan="-161.4" skinid="ht_node" target="" tilt="-0.35" title="R+1  Couloir 03" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:52:04" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node3" source="" tags="Pano2VR8" title="R+1  Salle de Conseil 01">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-72.24" skinid="ht_node" target="" tilt="-2" title="R+1  Salle de Conseil 02" url="{node2}"/>
+      <hotspot description="" id="Point02" pan="7.6" skinid="ht_node" target="" tilt="0.85" title="R+1  Salle de Conseil 03" url="{node4}"/>
+      <hotspot description="" id="Point03" pan="19.29" skinid="ht_node" target="" tilt="0.61" title="R+1  Salle de Conseil 04" url="{node5}"/>
+      <hotspot description="" id="Point04" pan="-157.64" skinid="ht_node" target="" tilt="-9.3" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point05" pan="-10.1" skinid="ht_node" target="" tilt="23.49" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point06" pan="-31.18" skinid="ht_node" target="" tilt="2.71" title="R+1  Espace de Collation" url="{node27}"/>
+      <hotspot description="" id="Point07" pan="-14.7" skinid="ht_node" target="" tilt="1.98" title="RDC Bureau RH " url="{node29}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:53:52" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="Pano2VR8" title="R+1  Salle de Conseil 02">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="1.91" skinid="ht_node" target="" tilt="1.24" title="R+1  Salle de Conseil 04" url="{node5}"/>
+      <hotspot description="" id="Point02" pan="-12.63" skinid="ht_node" target="" tilt="-0.51" title="R+1  Salle de Conseil 03" url="{node4}"/>
+      <hotspot description="" id="Point03" pan="86.33" skinid="ht_node" target="" tilt="-5.45" title="R+1  Salle de Conseil 01" url="{node3}"/>
+      <hotspot description="" id="Point04" pan="108.54" skinid="ht_node" target="" tilt="5.39" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point05" pan="21.22" skinid="ht_node" target="" tilt="1.54" title="R+1  Espace de Collation" url="{node27}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:50:15" comment="" copyright="" customnodeid="" datetime="" description="" heading="190.255" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="Pano2VR8" title="R+1  Salle de Conseil 03">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="190.255">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-9.62" skinid="ht_node" target="" tilt="0.52" title="R+1  Salle de Conseil 02" url="{node2}"/>
+      <hotspot description="" id="Point02" pan="-21.85" skinid="ht_node" target="" tilt="3.06" title="R+1  Salle de Conseil 01" url="{node3}"/>
+      <hotspot description="" id="Point03" pan="-118.73" skinid="ht_node" target="" tilt="1.37" title="R+1  Salle de Conseil 04" url="{node5}"/>
+      <hotspot description="" id="Point04" pan="-29.64" skinid="ht_node" target="" tilt="0.41" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point05" pan="-1.59" skinid="ht_node" target="" tilt="0.91" title="R+1  Bureau DG 01" url="{node8}"/>
+      <hotspot description="" id="Point06" pan="7.45" skinid="ht_node" target="" tilt="-0.02" title="R+1  Espace de Collation" url="{node27}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:48:16" comment="" copyright="" customnodeid="" datetime="" description="" heading="-181.379" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="Pano2VR8" title="R+1  Salle de Conseil 04">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-181.379">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-14.62" skinid="ht_node" target="" tilt="-0.12" title="R+1  Salle de Conseil 01" url="{node3}"/>
+      <hotspot description="" id="Point02" pan="1.34" skinid="ht_node" target="" tilt="1.15" title="R+1  Salle de Conseil 02" url="{node2}"/>
+      <hotspot description="" id="Point03" pan="89.74" skinid="ht_node" target="" tilt="-3.51" title="R+1  Salle de Conseil 03" url="{node4}"/>
+      <hotspot description="" id="Point04" pan="10.29" skinid="ht_node" target="" tilt="2.5" title="R+1  Bureau DG 01" url="{node8}"/>
+      <hotspot description="" id="Point05" pan="-24.46" skinid="ht_node" target="" tilt="3.58" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point06" pan="21.56" skinid="ht_node" target="" tilt="2.6" title="R+1  Espace de Collation" url="{node27}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:45:17" comment="" copyright="" customnodeid="" datetime="" description="" heading="-177.274" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="Pano2VR8" title="R+1  Pool Comptable 01">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-177.274">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="138.89" skinid="ht_node" target="" tilt="-2.62" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point02" pan="-141.65" skinid="ht_node" target="" tilt="-0.14" title="R+1  Couloir 04" url="{node14}"/>
+      <hotspot description="" id="Point03" pan="75.89" skinid="ht_node" target="" tilt="5.51" title="R+1  DAF 01" url="{node15}"/>
+      <hotspot description="" id="Point04" pan="-179.87" skinid="ht_node" target="" tilt="2.22" title="R+1  Salle de Conseil 01" url="{node3}"/>
+      <hotspot description="" id="Point05" pan="-40.2" skinid="ht_node" target="" tilt="-3.17" title="R+1  Pool Comptable 02" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:33:39" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node10" source="" tags="Pano2VR8" title="R+1  Pool Comptable 02">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="2.33" skinid="ht_node" target="" tilt="1.25" title="R+1  Couloir 03" url="{node11}"/>
+      <hotspot description="" id="Point02" pan="-36.86" skinid="ht_node" target="" tilt="0.75" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point03" pan="-71.23" skinid="ht_node" target="" tilt="2.9" title="R+1  DAF 01" url="{node15}"/>
+      <hotspot description="" id="Point04" pan="-20.14" skinid="ht_node" target="" tilt="-1.76" title="R+1  Pool Comptable 01" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:39:14" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node8" source="" tags="Pano2VR8" title="R+1  Bureau DG 01">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="156.06" skinid="ht_node" target="" tilt="1.5" title="R+1  Couloir 02" url="{node12}"/>
+      <hotspot description="" id="Point02" pan="-86.68" skinid="ht_node" target="" tilt="-1.76" title="R+1  Bureau DG 02" url="{node7}"/>
+      <hotspot description="" id="Point03" pan="-24.33" skinid="ht_node" target="" tilt="-3.93" title="R+1  Bureau DG 03" url="{node9}"/>
+      <hotspot description="" id="Point05" pan="27.31" skinid="ht_node" target="" tilt="-7.17" title="R+1  Espace de Collation" url="{node27}"/>
+      <hotspot description="" id="Point04" pan="-65.04" skinid="ht_node" target="" tilt="-1.46" title="R+1  Assistante de direction" url="{node28}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:42:05" comment="" copyright="" customnodeid="" datetime="" description="" heading="8.659" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node7" source="" tags="Pano2VR8" title="R+1  Bureau DG 02">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="8.659">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="116.01" skinid="ht_node" target="" tilt="-8.93" title="R+1  Bureau DG 01" url="{node8}"/>
+      <hotspot description="" id="Point02" pan="1.08" skinid="ht_node" target="" tilt="-5.38" title="R+1  Bureau DG 03" url="{node9}"/>
+      <hotspot description="" id="Point04" pan="68.95" skinid="ht_node" target="" tilt="-4.4" title="R+1  Espace de Collation" url="{node27}"/>
+      <hotspot description="" id="Point03" pan="-65.8" skinid="ht_node" target="" tilt="-2.26" title="R+1  Assistante de direction" url="{node28}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:36:27" comment="" copyright="" customnodeid="" datetime="" description="" heading="-183.394" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="Pano2VR8" title="R+1  Bureau DG 03">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-183.394">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="16.94" skinid="ht_node" target="" tilt="-21.75" title="R+1  Bureau DG 02" url="{node7}"/>
+      <hotspot description="" id="Point02" pan="-23.18" skinid="ht_node" target="" tilt="-5.22" title="R+1  Bureau DG 01" url="{node8}"/>
+      <hotspot description="" id="Point03" pan="19.45" skinid="ht_node" target="" tilt="0.13" title="R+1  Couloir 02" url="{node12}"/>
+      <hotspot description="" id="Point04" pan="-71.22" skinid="ht_node" target="" tilt="-0.05" title="R+1  Salle de Conseil 02" url="{node2}"/>
+      <hotspot description="" id="Point05" pan="-41.1" skinid="ht_node" target="" tilt="8.22" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point06" pan="53.23" skinid="ht_node" target="" tilt="1.21" title="R+1  Assistante de direction" url="{node28}"/>
+      <hotspot description="" id="Point07" pan="-52.91" skinid="ht_node" target="" tilt="-2.4" title="R+1  Espace de Collation" url="{node27}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-10T04:19:43" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node15" source="" tags="Pano2VR8" title="R+1  DAF 01">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="20.98" skinid="ht_node" target="" tilt="-4.01" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point02" pan="-23.06" skinid="ht_node" target="" tilt="0.45" title="R+1  Couloir 02" url="{node12}"/>
+      <hotspot description="" id="Point03" pan="-5.19" skinid="ht_node" target="" tilt="0.03" title="R+1  Bureau DG 01" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-17T12:28:14" comment="" copyright="" customnodeid="" datetime="" description="" heading="-186.101" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node22" source="" tags="Rendus02" title="R+1  Responsable Comptable">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-186.101">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-148.84" skinid="ht_node" target="" tilt="-5.21" title="R+1  Couloir 03" url="{node11}"/>
+      <hotspot description="" id="Point02" pan="73.39" skinid="ht_node" target="" tilt="-3.66" title="R+1  DAF 01" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-30T10:13:20" comment="" copyright="" customnodeid="" datetime="" description="" heading="-166.6" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node27" source="" tags="Rendus03" title="R+1  Espace de Collation">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-166.6">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="84.84" skinid="ht_node" target="" tilt="1.65" title="R+1  Bureau DG 01" url="{node8}"/>
+      <hotspot description="" id="Point02" pan="-82.84" skinid="ht_node" target="" tilt="-4.53" title="R+1  Salle de Conseil 03" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-07-30T11:44:16" comment="" copyright="" customnodeid="" datetime="" description="" heading="-10.82" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node28" source="" tags="Rendus03" title="R+1  Assistante de direction">
+      <mapcoords mapid="FloorPlan01" x="nan" x_floorplan_percent="inf" y="nan" y_floorplan_percent="inf"/>
+    </userdata>
+    <view fovmode="2" pannorth="-10.82">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="125.77" skinid="ht_node" target="" tilt="1.98" title="R+1  Couloir 02" url="{node12}"/>
+      <hotspot description="" id="Point02" pan="64.24" skinid="ht_node" target="" tilt="-2.02" title="R+1  Bureau DG 02" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-17T18:47:36" comment="" copyright="" customnodeid="" datetime="" description="" heading="84.9389" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node29" source="" tags="RenderRDC" title="RDC Bureau RH ">
+      <mapcoords mapid="FloorPlan02" x="1.18103" x_floorplan_percent="55.3055" y="-1.54907" y_floorplan_percent="72.6102"/>
+    </userdata>
+    <view fovmode="2" pannorth="84.9389">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="38.5" skinid="ht_node" target="" tilt="9.61" title="RDC Responsable Commercial" url="{node31}"/>
+      <hotspot description="" id="Point02" pan="92.52" skinid="ht_node" target="" tilt="16.76" title="RDC Responsable Informatique" url="{node30}"/>
+      <hotspot description="" id="Point03" pan="68.36" skinid="ht_node" target="" tilt="12.02" title="RDC Televendeur" url="{node32}"/>
+      <hotspot description="" id="Point04" pan="2.19" skinid="ht_node" target="" tilt="3.45" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point05" pan="-21.38" skinid="ht_node" target="" tilt="11.7" title="R+1  Escalier 02" url="{node25}"/>
+      <hotspot description="" id="Point06" pan="-41.5" skinid="ht_node" target="" tilt="-6.47" title="R+1 Couloir 01" url="{node13}"/>
+      <hotspot description="" id="Point07" pan="-62.93" skinid="ht_node" target="" tilt="-8.26" title="R+1  Couloir 02" url="{node12}"/>
+      <hotspot description="" id="Point08" pan="-86.72" skinid="ht_node" target="" tilt="-9.18" title="R+1  Couloir 03" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-17T18:48:48" comment="" copyright="" customnodeid="" datetime="" description="" heading="-89.2593" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node30" source="" tags="RenderRDC" title="RDC Responsable Informatique">
+      <mapcoords mapid="FloorPlan02" x="0.53833" x_floorplan_percent="25.209" y="-0.477905" y_floorplan_percent="22.401"/>
+    </userdata>
+    <view fovmode="2" pannorth="-89.2593">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="168.94" skinid="ht_node" target="" tilt="-5.71" title="RDC Responsable Commercial" url="{node31}"/>
+      <hotspot description="" id="Point02" pan="108.89" skinid="ht_node" target="" tilt="13.53" title="RDC Bureau RH " url="{node29}"/>
+      <hotspot description="" id="Point03" pan="140.03" skinid="ht_node" target="" tilt="-0.69" title="RDC Televendeur" url="{node32}"/>
+      <hotspot description="" id="Point04" pan="-145.13" skinid="ht_node" target="" tilt="-10.86" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point05" pan="-20.37" skinid="ht_node" target="" tilt="11.13" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point06" pan="24.69" skinid="ht_node" target="" tilt="9.34" title="R+1 Couloir 01" url="{node13}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-17T18:50:00" comment="" copyright="" customnodeid="" datetime="" description="" heading="256.706" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node31" source="" tags="RenderRDC" title="RDC Responsable Commercial">
+      <mapcoords mapid="FloorPlan02" x="0.939331" x_floorplan_percent="43.9871" y="-0.422974" y_floorplan_percent="19.8262"/>
+    </userdata>
+    <view fovmode="2" pannorth="256.706">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="1.92" skinid="ht_node" target="" tilt="10.73" title="RDC Responsable Informatique" url="{node30}"/>
+      <hotspot description="" id="Point02" pan="-174.28" skinid="ht_node" target="" tilt="-4.48" title="RDC Televendeur" url="{node32}"/>
+      <hotspot description="" id="Point03" pan="107.16" skinid="ht_node" target="" tilt="-1.23" title="RDC Bureau RH " url="{node29}"/>
+      <hotspot description="" id="Point04" pan="80.51" skinid="ht_node" target="" tilt="9.67" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point05" pan="27.58" skinid="ht_node" target="" tilt="6.52" title="R+1  Couloir 02" url="{node12}"/>
+      <hotspot description="" id="Point06" pan="123.85" skinid="ht_node" target="" tilt="10.64" title="R+1  Couloir 02" url="{node12}"/>
+      <hotspot description="" id="Point07" pan="93.35" skinid="ht_node" target="" tilt="17.8" title="R+1  Escalier 02" url="{node25}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-08-17T19:03:21" comment="" copyright="" customnodeid="" datetime="" description="" heading="-85.8838" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node32" source="" tags="RenderRDC" title="RDC Televendeur">
+      <mapcoords mapid="FloorPlan02" x="1.55457" x_floorplan_percent="72.7974" y="-0.510864" y_floorplan_percent="23.9459"/>
+    </userdata>
+    <view fovmode="2" pannorth="-85.8838">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="0.59" skinid="ht_node" target="" tilt="2.02" title="RDC Responsable Commercial" url="{node31}"/>
+      <hotspot description="" id="Point02" pan="41.21" skinid="ht_node" target="" tilt="-9.32" title="R+1  Escalier 03" url="{node26}"/>
+      <hotspot description="" id="Point03" pan="53.15" skinid="ht_node" target="" tilt="5.25" title="R+1  Escalier 02" url="{node25}"/>
+      <hotspot description="" id="Point04" pan="86.58" skinid="ht_node" target="" tilt="17.42" title="PAGE D'ACCEUIL " url="{node16}"/>
+      <hotspot description="" id="Point05" pan="106.77" skinid="ht_node" target="" tilt="-12.59" title="RDC Bureau RH " url="{node29}"/>
+      <hotspot description="" id="Point06" pan="-35.41" skinid="ht_node" target="" tilt="6.09" title="RDC Responsable Commercial" url="{node31}"/>
+      <hotspot description="" id="Point07" pan="20.61" skinid="ht_node" target="" tilt="4.23" title="RDC Responsable Informatique" url="{node30}"/>
+      <hotspot description="" id="Point08" pan="-105.56" skinid="ht_node" target="" tilt="5.05" title="R+1  Bureau DG 01" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{0b3da764-7c41-4190-9acf-bad60f02afef}"/>
+    <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="6" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <hotspots smoothmovement="0">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" borderalpha="1" bordercolor="0x000000" borderradius="1" enabled="1" height="20" textalpha="1" textcolor="0x000000" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+  </masternode>
+  <map bgcolor="rgba(255, 255, 255, 1)" crispedges="0" floorplannorth="0" height="0" id="FloorPlan01" index="0" tileformat="png" title="" transparent="0" type="file" width="0" zoomlevels="1"/>
+  <map bgcolor="rgba(255, 255, 255, 1)" crispedges="0" floorplannorth="0" height="3107" id="FloorPlan02" index="1" tileformat="jpg" title="" transparent="0" type="file" width="3110" zoomlevels="1"/>
+</tour>
