@@ -119,7 +119,7 @@
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-10-29T05:35:47" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="Render" title="Chambre 01"/>
     <view fovmode="2" pannorth="0">
-      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <start fov="100" pan="67.2904" projection="4" tilt="-3.40023"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
@@ -147,9 +147,10 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-75.99" skinid="ht_node" target="" tilt="-3.22" title="Chambre 01" url="{node6}"/>
-      <hotspot description="" id="Point02" pan="-94.14" skinid="ht_node" target="" tilt="-2.92" title="Couloir" url="{node5}"/>
-      <hotspot description="" id="Point03" pan="-28.92" skinid="ht_node" target="" tilt="-10.45" title="SDE Chambre 01" url="{node9}"/>
+      <hotspot description="" id="Point01" pan="-82.45" skinid="ht_node" target="" tilt="-3.93" title="Chambre 01" url="{node6}"/>
+      <hotspot description="" id="Point02" pan="-118.29" skinid="ht_node" target="" tilt="-6.16" title="Couloir" url="{node5}"/>
+      <hotspot description="" id="Point03" pan="-35.62" skinid="ht_node" target="" tilt="-8.67" title="SDE Chambre 01" url="{node9}"/>
+      <hotspot description="" id="Point04" pan="-64.04" skinid="ht_node" target="" tilt="-9.21" title="SDE 02 Chambre 01" url="{node10}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -172,6 +173,30 @@
       <hotspot description="" id="Point01" pan="91.11" skinid="ht_node" target="" tilt="-13.92" title="Chambre 01 vue 02" url="{node8}"/>
       <hotspot description="" id="Point02" pan="-77.18" skinid="ht_node" target="" tilt="4.15" title="Chambre 02" url="{node7}"/>
       <hotspot description="" id="Point03" pan="-165.91" skinid="ht_node" target="" tilt="-16.39" title="Couloir" url="{node5}"/>
+      <hotspot description="" id="Point04" pan="-33.72" skinid="ht_node" target="" tilt="6.06" title="SDE 02 Chambre 01" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="3000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="3000">
+      <level height="3000" predecode="0" preload="0" width="3000"/>
+      <level height="1500" predecode="0" preload="0" width="1500"/>
+      <level height="750" predecode="1" preload="1" width="750"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-02T21:19:22" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node10" source="" tags="02" title="SDE 02 Chambre 01"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="0.6" skinid="ht_node" target="" tilt="9.81" title="SDE Chambre 01" url="{node9}"/>
+      <hotspot description="" id="Point02" pan="37.78" skinid="ht_node" target="" tilt="-6.78" title="Chambre 01 vue 02" url="{node8}"/>
+      <hotspot description="" id="Point03" pan="-65.93" skinid="ht_node" target="" tilt="9.05" title="Chambre 02" url="{node7}"/>
+      <hotspot description="" id="Point04" pan="-170.2" skinid="ht_node" target="" tilt="11.17" title="Couloir" url="{node5}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -201,7 +226,7 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{c5aa91f9-ed58-4e44-a838-dfb76f911687}"/>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{38bb7307-47bf-4ee4-84fd-2a64ee9f4ed6}"/>
     <autorotate delay="0.00" enabled="1" horizonfromdefview="0" nodedelay="0.00" nodefilter="" noderandom="1" returntohorizon="0.000" speed="0.050" startloaded="0" useanimation="0"/>
     <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="6" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <flyintransition enabled="1" speed="2.00"/>
